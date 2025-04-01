@@ -25,9 +25,9 @@ Closing the deal - after the transaction is completed, the bot closes the sell a
 
 ### Key benefits
 
-✅ Full automation – the bot monitors orders, managing the process without your participation
-✅ Real-time monitoring – tracking transaction statuses, notifications about key events
-✅ Flexibility – closing and reopening ads is carried out by the bot
+✅ Full automation – the bot monitors orders, managing the process without your participation<br>
+✅ Real-time monitoring – tracking transaction statuses, notifications about key events<br>
+✅ Flexibility – closing and reopening ads is carried out by the bot<br>
 ✅ Intuitive interface – convenient control via telegram for comfortable trading
 
 DualTradeBot is your reliable tool for automating P2P trading, which reduces risks and increases profits. Control the process, and the bot will do the rest for you!
@@ -35,7 +35,7 @@ DualTradeBot is your reliable tool for automating P2P trading, which reduces ris
 #### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
 
-## Buy a subscription to Dual Trade Bot Binance
+## Buy Dual Trade Bot Binance
 https://py-dev.top/application-software/dual-trade-bot-binance
 
 ## Contacts
